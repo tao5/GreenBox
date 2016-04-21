@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d("ngu", "draw");
+        Log.d("ngu", "mvp");
+        Log.d("ngu", "dragger2");
 
     }
 }
