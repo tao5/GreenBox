@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("ngu", "draw");
         Log.d("ngu", "mvp");
         Log.d("ngu", "dragger2");
+        Log.d("ngu", "for test");
 
     }
 }
