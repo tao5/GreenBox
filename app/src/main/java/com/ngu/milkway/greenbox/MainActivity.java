@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("ngu", "push by tao5 ");
         Log.d("ngu", "push by eclipse ");
         Log.d("ngu", "push by real eclipse ! ");
+        Log.d("ngu", "push by tao ! yep!");
 
     }
 }
