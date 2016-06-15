@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("ngu", "add by tao ");
         Log.d("ngu", "add by tao ");
         Log.d("ngu", "push by tao5 ");
+        Log.d("ngu", "push by eclipse ");
 
     }
 }
