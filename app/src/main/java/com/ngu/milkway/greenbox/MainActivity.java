@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("ngu", "for test");
         Log.d("ngu", "add by eclipsedMs");
         Log.d("ngu", "add by eclipsedMs !");
+        Log.d("ngu", "add by eclipsedMs2 ");
 
     }
 }
