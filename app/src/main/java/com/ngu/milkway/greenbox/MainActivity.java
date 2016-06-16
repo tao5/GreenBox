@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("ngu", "last");
         Log.d("ngu", "last 0");
         Log.d("ngu", "last 1");
+        Log.d("ngu", "last 2");
 
     }
 }
