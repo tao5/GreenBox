@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("ngu", "push again and over ");
         Log.d("ngu", "push ");
         Log.d("ngu", "ms say hi  ");
+        Log.d("ngu", "ms say hi again ");
 
     }
 }
